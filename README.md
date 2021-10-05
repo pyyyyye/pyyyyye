@@ -32,7 +32,7 @@
 
 <!-- ReactHooks -->
 <img src="https://img.shields.io/badge/React Hooks-gray?style=flat-square&logo=ReactHooks&logoColor=white" style="border-radius:3px;"/>
-
+<br/>
 <!-- Next.js -->
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" style="border-radius:3px;"/>
 
@@ -63,7 +63,7 @@
 
 <!-- Slack -->
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" style="border-radius:3px;"/>
-
+<br/>
 <!-- Notion -->
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" style="border-radius:3px;"/>
 

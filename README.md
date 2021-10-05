@@ -69,7 +69,6 @@
 
 <!-- Figma -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="border-radius:3px;"/>
-  
-  ![Adobe InDesign](https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat-square&logo=AdobeInDesign&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/AdobeInDesign-FF3366?style=flat-square&logo=AdobeInDesign&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white)
 </div>

@@ -37,7 +37,8 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" style="border-radius:3px;"/>
 
 <!-- emotion -->
-<img src="https://img.shields.io/badge/emotion-hotpink?style=flat-square&logo=emotion&logoColor=white" style="border-radius:3px;"/>
+![emotion](https://user-images.githubusercontent.com/66297466/135984831-4d312333-584e-4df3-a07b-29d31f55a762.png)
+)<img src="https://img.shields.io/badge/emotion-hotpink?style=flat-square&logo=emotion&logoColor=white" style="border-radius:3px;"/>
 
 <!--  Styled-Component -->
 <img src="https://img.shields.io/badge/ Styled Component-green?style=flat-square&logo= Styled-Component&logoColor=white" style="border-radius:3px;"/>

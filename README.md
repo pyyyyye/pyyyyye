@@ -26,13 +26,13 @@
 
 <!-- React Navigation-->
 <img src="https://img.shields.io/badge/React Navigation-6b52ae?style=flat-square&logo=ReactNavigation&logoColor=white" style="border-radius:3px;"/>
-
+<br/>
 <!--TypeScript  -->
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" style="border-radius:3px;"/>
 
 <!-- ReactHooks -->
 <img src="https://img.shields.io/badge/React Hooks-gray?style=flat-square&logo=ReactHooks&logoColor=white" style="border-radius:3px;"/>
-<br/>
+
 <!-- Next.js -->
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" style="border-radius:3px;"/>
 
@@ -48,7 +48,7 @@
 
 <!-- Ant Design -->
 <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=Ant Design&logoColor=white" style="border-radius:3px;"/>
-
+<br/>
 <!-- GraphQL -->
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" style="border-radius:3px;"/>
 

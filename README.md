@@ -68,18 +68,4 @@
 
 <!-- Figma -->
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" style="border-radius:3px;"/>
-<!-- Adobe InDesign -->
-<img src="https://img.shields.io/badge/Adobe InDesign
--FF3366?style=flat-square&logo=Adobe InDesign
-&logoColor=white" style="border-radius:3px;"/><!-- Adobe Photoshop --> <img src="https://img.shields.io/badge/Adobe Photoshop
--31A8FF?style=flat-square&logo=Adobe Photoshop
-&logoColor=white" style="border-radius:3px;"/>
-<!-- Adobe Illustrator -->
-<img src="https://img.shields.io/badge/Adobe Illustrator
--FF9A00?style=flat-square&logo=Adobe Illustrator
-&logoColor=white" style="border-radius:3px;"/>
-<!-- Adobe After Effects -->
-<img src="https://img.shields.io/badge/Adobe After Effects
--9999FF?style=flat-square&logo=Adobe After Effects
-&logoColor=white" style="border-radius:3px;"/>
 </div>
